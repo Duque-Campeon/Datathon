@@ -1,4 +1,4 @@
-Date,nps,_C_mo_podemos_mejorar_,nps_scaled
+Date,nps,Comment
 2023-01-03,6,No hay claridad en la pagina. Las opciones están muy revuletas y en desorden. No es fácil,3
 2023-01-03,1,no cobrando doblemente la seleccion de asientos al cambiar de itinerario,0
 2023-02-28,6,NO ES CLARO.,3
@@ -10,7 +10,9 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-02-28,8,NADIE ES PERFECTO,4
 2023-02-28,1,Ya tenia un asiento asignado y tramposamente lo cambian para que tenga uno que pagar,0
 2023-02-28,0,"No puede ser posible que un cambio de vuelos cueste carísimo y por llamada más, en verdad no puede ser, no recomiendo nada esta aerolínea",0
-2023-02-28,0,"no estoy contenta hacen los cambio si avisar, y despues cobranla peor aerolina que he viajadoesto me respeten mis horarios",0
+2023-02-28,0,"no estoy contenta hacen los cambio si avisar, y despues cobran
+la peor aerolina que he viajado
+esto me respeten mis horarios",0
 2023-02-28,6,No option to see the site in English,3
 2023-02-28,0,NO SE ENTIENDE,0
 2023-02-28,5,Los costos no son claros,2
@@ -24,7 +26,8 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-02-27,0,NO ME RESPETARON EL CAMBIO Y ME HICIERON EL COBRO TOTAL,0
 2023-02-27,6,te dice que no hay cobro por camnio y al final si te cobran,3
 2023-02-27,0,Me confundí y pagué más por que por alguna razón te preguntan que si el TUA lo quieres pagar después ¿Para qué lo pagaría después? Cobrenme todo junto y listo,0
-2023-02-27,8,"Que sean un poco mas claras las cosasNo supe como agregar 5 kg extras al equipaje de mano",4
+2023-02-27,8,"Que sean un poco mas claras las cosas
+No supe como agregar 5 kg extras al equipaje de mano",4
 2023-02-27,2,cobraron algo con bajo un concepto nada solido,1
 2023-02-27,2,"De acuerdo a la página, mi cambio de vuelo costaba $250. Sin ningún tipo de explicación al llegar al final esto subió a $600",1
 2023-02-27,8,no grabo la direccion de alojamiento,4
@@ -65,7 +68,9 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-02-25,0,No funciona bien l apagina,0
 2023-02-25,8,"el proceso de pago cuando se hace el cambio es algo confuso, tuve varios ""errores"" con el sistema y al final que se hizo el cambio no me ha reflejado el cobro, confío en que se completó la compra de forma correcta.",4
 2023-02-25,2,cambiando algunas politicas con su personal porque muchas veces son personas que no tienen sentido comun como cuando compro equipaje extra en el carrie on y no quieren dejar subir mi maleta o cuando c les pide q si c puede documentar afuera en mostradores dicen que no y en sala a fuerza la quieren mandar abajo presten atencion a eso por favor y entrenen mejor a su personal xq hacen ver mal a la aerolinea,1
-2023-02-25,0,"No lo recomiendo porque aunque uno haga pagos previos al check in, no los consideran. Tuve que pagar dos veces los asientos, y en el momento de hacer el check in cuesta casi el doble el asiento. Además, la plataforma es confusa y está diseñada para que uno incluya servicios que tienen costo adicional y que no son necesarios.",0
+2023-02-25,0,"No lo recomiendo porque aunque uno haga pagos previos al check in, no los consideran. Tuve que pagar dos veces los asientos, y en el momento de hacer el check in cuesta casi el doble el asiento. 
+
+Además, la plataforma es confusa y está diseñada para que uno incluya servicios que tienen costo adicional y que no son necesarios.",0
 2023-02-24,8,Se puede mejorar al no sacarte de la aplicación cuando intentas pagar.,4
 2023-02-24,6,"TUVE QUE DUPLICAR PAGO, POR QUE NO ME DIERON INMEDIATAMENTE EL PAGO TUA GCS",3
 2023-02-24,4,"Son muchos precios ocultos, parecen muy buenas las opciones, precios muy accesibles,  pero al final de cuentas uno viene pagando más que otras aerolíneas.",2
@@ -182,8 +187,17 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-02-17,6,practicidad de la palicacion,3
 2023-02-17,0,coma cola,0
 2023-02-17,8,No aumentando los precios,4
-2023-02-17,0,"Agregan servicios que no deseo como el abordaje prioritario que no pedí y no logro descubrir como quitarlo.Además vuelven a cobrar casi el vuelo completo al momento de cambiarlo, aún cuando en el primer vuelo pagué por cambios futuros.Prefiero Volaris que si considera esto que menciono.",0
-2023-02-16,0,"Para lograr modificaciones en mi reserva, su sitio web me forzó a agregar un cargo extra por selección de asiento. De no elegirlo, no me permitiría hacer el cambio.El mensaje de error decía:""¡Oh, no!Lo sentimos, algo salió mal. Por favor, intenta nuevamente o realiza tu check-in directamente en el aeropuerto.01865bd7-5cf7-4100-8275-2fa90579f015""Necesitaré hacer otro cambio en días posteriores y temo encontrarme con el mismo error.",0
+2023-02-17,0,"Agregan servicios que no deseo como el abordaje prioritario que no pedí y no logro descubrir como quitarlo.
+Además vuelven a cobrar casi el vuelo completo al momento de cambiarlo, aún cuando en el primer vuelo pagué por cambios futuros.
+Prefiero Volaris que si considera esto que menciono.",0
+2023-02-16,0,"Para lograr modificaciones en mi reserva, su sitio web me forzó a agregar un cargo extra por selección de asiento. De no elegirlo, no me permitiría hacer el cambio.
+
+El mensaje de error decía:
+""¡Oh, no!
+Lo sentimos, algo salió mal. Por favor, intenta nuevamente o realiza tu check-in directamente en el aeropuerto.
+01865bd7-5cf7-4100-8275-2fa90579f015""
+
+Necesitaré hacer otro cambio en días posteriores y temo encontrarme con el mismo error.",0
 2023-02-16,1,"no cobren otros asientos, cuando ya pague unos de mi vuelo original",0
 2023-02-16,7,REDUCIR COSTOS E IMPUESTOS,4
 2023-02-16,6,"no separar los impuestos del costo del vuelo, es súper confuso y problemático",3
@@ -220,8 +234,10 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-02-15,2,PODER EN EL SISTEMA SABRE ASIGNAR LOS ASIENTOS,1
 2023-02-15,8,MENOS CARGOS POR CAMBIOS,4
 2023-02-15,0,hacen el pago del tua por separado cuando deben agregarlo al momento que paga uno,0
-2023-02-15,0,"Es una calamidad que cobren casi hasta por respirar dentro del avion.Sabiendo que son la unica opcion, se crean ""necesidades"" para cobrar.",0
-2023-02-15,5,"tuve que entrar 3 veces el codigo de seguridad de la tarjeta para que funcciona. Las 2 primeras veces salia un error indiicando que no lo habia puesto aunque si.Tambien, me rechazo 2 veces de la misma manera mi tarjeta amex",2
+2023-02-15,0,"Es una calamidad que cobren casi hasta por respirar dentro del avion.
+Sabiendo que son la unica opcion, se crean ""necesidades"" para cobrar.",0
+2023-02-15,5,"tuve que entrar 3 veces el codigo de seguridad de la tarjeta para que funcciona. Las 2 primeras veces salia un error indiicando que no lo habia puesto aunque si.
+Tambien, me rechazo 2 veces de la misma manera mi tarjeta amex",2
 2023-02-15,4,la pagina se traba mucho,2
 2023-02-15,0,Precios cambian sin razon,0
 2023-02-15,2,"ESTE SISTEMA TIENE ERRORES PARA OBLIGARTE A ESCOGER ASIENTO Y QUE PAGUES MAS, ES IMPOSIBLE NO ESCOGER ASIENTE, ESTO ES FRAUDE Y ABUSO. VIVA AEROBUS ES DE LO PEOR.",1
@@ -271,7 +287,8 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-11-02,0,siemprr cobran mas de lo que dicen,0
 2023-11-02,7,cargos por cambio,4
 2023-11-02,8,Es sencillo,4
-2023-11-02,2,"¿como es posible que te cobren por seleccionar el asiento?es un robo!",1
+2023-11-02,2,"¿como es posible que te cobren por seleccionar el asiento?
+es un robo!",1
 2023-11-02,5,"No pongan sorpresas, ni cargos por servicios que no solicita el cliente",2
 2023-11-02,8,exelente,4
 2023-11-02,5,En las tarifas de cambio,2
@@ -326,7 +343,9 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-08-02,4,"MUY COMPLICADO, NO ESPECIFICA NI DEFINE BIEN LOS TÉRMINOS DE LA RESERVACIÓN Y CAMBIA",2
 2023-08-02,8,"Dejar claro que si haces algún cambio de itinerario va a tener costo extra porque había entendido que ya estaba cubierto desde la compra, ya que supuse que por eso pagué más.",4
 2023-08-02,7,"Cuando uno reserva dice que puede uno cambiar el vuelo 3 veces de forma gratuita, pero hay un asterisco que dice que pueden aplicar tarifas. Lo cierto es que prácticamente nunca es gratuito y esto parece un engaño.",4
-2023-08-02,0,"no tuve forma de contactar con vosotros para anular el vuelo (sin coste adicional dentro de las primeras 24h como dice la normativa internacional) y he tenido que abonar 905 pesos mexicanos por hacer un cambio en el nombre de una persona. No volveré a utilizar esta compañia ni sus servicios",0
+2023-08-02,0,"no tuve forma de contactar con vosotros para anular el vuelo (sin coste adicional dentro de las primeras 24h como dice la normativa internacional) y he tenido que abonar 905 pesos mexicanos por hacer un cambio en el nombre de una persona. 
+
+No volveré a utilizar esta compañia ni sus servicios",0
 2023-08-02,3,Es muy tardado,2
 2023-08-02,3,muy poco explicado.,2
 2023-08-02,8,"Me fuerza a elegir asientos cuando no lo necesito, de lo demás es muy fácil y rápido.",4
@@ -351,7 +370,8 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-07-02,6,Dejen de cobrar los asientos cuando el precio YA VIENE para el cambio de boleto,3
 2023-07-02,0,Me estan cobrando por un vuelo que ustedes me cambiaron.,0
 2023-07-02,1,NO ME GUSTA QUE COBREN POR UN ASIENTO Y MENOS NO PODER CAMBIAR MI VUELO SIN COSTO ALGUNO.,0
-2023-07-02,8,"LA ATENCIÓN VIA TELEFONICA.ES MUY ESCUETA Y NO HAY SOLUCIÓN INMEDIATA",4
+2023-07-02,8,"LA ATENCIÓN VIA TELEFONICA.
+ES MUY ESCUETA Y NO HAY SOLUCIÓN INMEDIATA",4
 2023-07-02,5,Mala experiencia en el cambio de vuelo y peor en el servicio telefónico,2
 2023-07-02,5,"No estaba muy segura la fecha y compré la equivocada, por alguna razón se me aplazó un mes la compra",2
 2023-07-02,8,EN LAS FORMAS DE PAGO. SUS PROCESOS,4
@@ -368,7 +388,9 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-06-02,0,es un robo sus cambios,0
 2023-06-02,7,"Cuando es una reservación para varias personas, dejar la posibilidad de partir la reservación para poder hacer cambios para una sola persona de la reservación",4
 2023-06-02,0,"Me cambiaron mi vuelo a un horario al cual no puedo llegar, quise cambiar mi vuelo y me estan cobrando mas por un error de su parte.",0
-2023-06-02,8,"Experimente una inconsistencia en los datos del pago dentro de la pagina. sucedió varias veces.: la diferencia en la tarifa ponia $0.00 y el total a pagar otra cantidad / diferenteDespues de varios intentos los datos fueron compatibleMe llevo mucho tiempo hacer el cambio.",4
+2023-06-02,8,"Experimente una inconsistencia en los datos del pago dentro de la pagina. sucedió varias veces.: la diferencia en la tarifa ponia $0.00 y el total a pagar otra cantidad / diferente
+Despues de varios intentos los datos fueron compatible
+Me llevo mucho tiempo hacer el cambio.",4
 2023-06-02,7,DEBRIAN DE DAR LOS ASIENTOS SIN COBRO,4
 2023-06-02,5,PORQUE ESTAMOS OBLIGADOS A PAGAR POR UN ASIENTO Y EL SISTEMA ELECTRÓNICO NO PERMITE EL CAMBIO. LA AYUDA TELEFÓNICA DICE.... ES SI O SI POR EL CAMBIO DE DÍA.,2
 2023-06-02,8,simplificando cargos adicionales,4
@@ -393,11 +415,14 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-04-02,2,"cambie el vuelo y ahora resulta que pierdo mis lugares, entonces ahora debo volver a pagar asiento? pero bueno, con tal de no tener que estar a la deriva con ustes. pesimo servicio la verdad, fui a la tienda fisica, y la perra vieja me hizo una cara horrieble desde que entre, y me dice es en la pagina o te cobro 2000 por persona, neta que asco pero nimodo, aqui seguimos como perras con ustedes",1
 2023-04-02,4,NO COBRANDO POR LOS ERRORES,2
 2023-04-02,7,tener equipaje mas barato para las personas mayores de edad,4
-2023-04-02,6,"CAMBIARON LA FECHA DE MI RESERVACION. LA HICE PARA EL 18 DE FEBRERO Y AL INGRESAR CON EL NUMERO DE RESERVACION APARECIÓ CON FECHA 17 DE FEBRERO.POR LOS CAMBIOS TUVE QUE PAGAR UN COSTO ADICIONAL.NO ESTOY DE ACUERDO",3
+2023-04-02,6,"CAMBIARON LA FECHA DE MI RESERVACION. LA HICE PARA EL 18 DE FEBRERO Y AL INGRESAR CON EL NUMERO DE RESERVACION APARECIÓ CON FECHA 17 DE FEBRERO.
+POR LOS CAMBIOS TUVE QUE PAGAR UN COSTO ADICIONAL.
+NO ESTOY DE ACUERDO",3
 2023-04-02,8,no cobrando cuando hay cambios de vuelos,4
 2023-04-02,6,"ES FACIL pero cuando tenía saldo a favor no me dejaba hacer cal cambio, tuve que meter mas gastos para poder hacer el cambio.",3
 2023-04-02,8,Permitiendo que en la aplicación no cambien los parámetros a la hora de cambiar alguno de ellos en la búsqueda de vuelos,4
-2023-04-02,2,"LA PAGINA ESTA MUY BIEN PERO AL LLEGAR A PAGOS DESDE HACE  3 MESES EVENTUALMENTE ME DECLINA LAS TARJETAS SIN JUSTIFICACION Y AL INCIAR LA RESERVA  COMO INVITADO SI LAS ACEPTA TIENE ALGUN PROBLEMA LA PLATAFORMA PERO ES MUY MOLESTO PIERDE UNO MUCHO TI EMPO",1
+2023-04-02,2,"LA PAGINA ESTA MUY BIEN PERO AL LLEGAR A PAGOS DESDE HACE  3 MESES EVENTUALMENTE ME DECLINA LAS TARJETAS SIN JUSTIFICACION Y AL INCIAR LA RESERVA  COMO INVITADO SI LAS ACEPTA 
+TIENE ALGUN PROBLEMA LA PLATAFORMA PERO ES MUY MOLESTO PIERDE UNO MUCHO TI EMPO",1
 2023-04-02,0,generan cargos,0
 2023-04-02,1,"Dejar agregar 5,10 15kg  a tu equipaje documentado del ""paquete EXTRA"" pagando SOLAMENTE el peso extra y no toda la maleta + el extra",0
 2023-04-02,5,Dando la información de costo total real. No separando el TUA y generando confusión,2
@@ -405,7 +430,8 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-04-02,2,...,1
 2023-04-02,8,"se vuelev a cobrar TUA, deberian de contemplar eso",4
 2023-04-02,3,mala selección de asiento,2
-2023-03-02,0,"Asignan los asientos juntos si el cliente compra dos o más boletos.No jueguen en eso.",0
+2023-03-02,0,"Asignan los asientos juntos si el cliente compra dos o más boletos.
+No jueguen en eso.",0
 2023-03-02,8,ser mas claros en la forma de pagar el TUA,4
 2023-03-02,8,Reduciendo contaminacion visual o marcando con mas claridad lo q es anuncio y lo q no,4
 2023-03-02,2,"insoportable que te quieran vender hotel, coches , seguro etc",1
@@ -453,7 +479,9 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-01-02,7,"muy dificil seleccionar cambio de vuelo de destinos, solo con el boton de tab de mi compu",4
 2023-01-02,1,No me deja hacer pagos con mis tarjetas de crédito ni de débito.,0
 2023-01-02,7,MUY ALTO EL CAMBIO DE MALETA,4
-2023-01-02,8,"AVECES EL SISTEMA SE ALENTA O ATORA   .. Y TE SACA  DICE ALGO SALIO MAL  INTENTALO MAS TARDE GRACIAS",4
+2023-01-02,8,"AVECES EL SISTEMA SE ALENTA O ATORA   .. Y TE SACA  
+DICE ALGO SALIO MAL  INTENTALO MAS TARDE 
+GRACIAS",4
 2023-01-02,8,"No pasan las tarjetas guardadas, algo tienen que hay que volver a meter la tarjeta para que pase...",4
 2023-01-02,4,la aplicacion no funciona,2
 2023-01-02,8,A veces te saca de la pagina y tienes que empezar de nuevo todo,4
@@ -4244,7 +4272,9 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-04-15,0,cambiaste los horarios de vuelos y me quitaste los asientos que ya estaban pagados,0
 2023-04-15,8,ghh,4
 2023-04-15,0,"Ya habia seleccionado asientos y me los habian cobrado, ahora que hacemos Check in me mandan al asiendo 30 por cobrarme otra vez, no se vale",0
-2023-04-15,1,"MUY CAROS  LOS CAMBIOS QUE TRISTEZA QUE SEAN MUY INFLEXIBLES",0
+2023-04-15,1,"MUY CAROS  LOS CAMBIOS 
+
+QUE TRISTEZA QUE SEAN MUY INFLEXIBLES",0
 2023-04-15,8,gracias,4
 2023-04-15,1,AVISEN DESDE UN PRINCIPIO QUE SE DEBE PAGAR UN COSTO ADICIONAL POR EL ASIENTO,0
 2023-04-15,0,No me parece razonable que permitan que un niño de 2 años viaje solo sin la compañía de ningún adulto conocido. Lamentable política corporativa.,0
@@ -4257,7 +4287,9 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-04-14,0,NO SE PUDO CAMBIAR MI VUELO,0
 2023-04-14,8,"Cometí un error al escribir el correo de la persona a la que le compre un vuelo, tampoco se puede modificar el número, estaría bien mayor facilidad a esta información, igual soporte técnico es muy robotizado y aveces se necesita una respuesta muy concreta.",4
 2023-04-14,4,SER MAS CLARO CON LA VENTA Y NO DARLE TANTO ROLLO,2
-2023-04-14,0,"Inhabilitaron la función de cambio de asiento a propósito, en distintas plataformas, para hacerme pagar por el cambio de asiento a pesar de que yo no lo quería. Esta aerolínea SIEMPRE decepciona de alguna manera: ya sea digital, o física y presencial en los aeropuertos.Los mexicanos merecen una mejor aerolínea.",0
+2023-04-14,0,"Inhabilitaron la función de cambio de asiento a propósito, en distintas plataformas, para hacerme pagar por el cambio de asiento a pesar de que yo no lo quería. Esta aerolínea SIEMPRE decepciona de alguna manera: ya sea digital, o física y presencial en los aeropuertos.
+
+Los mexicanos merecen una mejor aerolínea.",0
 2023-04-14,8,no pudimos pagar todo junto,4
 2023-04-14,5,"en el cambio de vuelo al seleccionar nueva fecha me lanza un importe de diferencia tarifaria menor al que se paga al final. No supieron explicarme en servicio al cliente a que se debe, bueno me dijeron que es por la fecha o disponibilidad del vuelo pero entonces porque no mostrar el importe real cuando uno selecciona el vuelo? se me hace incorrecto y al final tuve que pagar",2
 2023-04-14,4,no dan buenas soluciones me siento decepcionado pague mas de lo que es,2
@@ -4308,7 +4340,9 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-12-04,1,PRECIOS EXCESIVOS EN LA RESERVACION DE ASIENTOS,0
 2023-12-04,8,Desglosando mejor los cargos en los cambios de tarifas.,4
 2023-12-04,5,los cambios salen muy caros casi como comprar otro vuelo,2
-2023-12-04,0,"me cobraron por un cambio de vuelo cuando se supone que tengo 3 cambios gratis y además, el vuelo que elegí es mucho más barato que el que yo pagué. además, quise pagar con un cupón que tengo por otro vuelo que me arruinaron con 4 horas de espera y rompiendo mi guitarra y resulta que en la hoja firmada dice que vale por 6 meses y no lo respetaron porque ahora dice que está vencido. En verdad, muy molesto",0
+2023-12-04,0,"me cobraron por un cambio de vuelo cuando se supone que tengo 3 cambios gratis y además, el vuelo que elegí es mucho más barato que el que yo pagué. 
+además, quise pagar con un cupón que tengo por otro vuelo que me arruinaron con 4 horas de espera y rompiendo mi guitarra y resulta que en la hoja firmada dice que vale por 6 meses y no lo respetaron porque ahora dice que está vencido. 
+En verdad, muy molesto",0
 2023-12-04,8,deberia ser mas barato,4
 2023-12-04,0,TE MANEJAN UN PRECIO AL MOMENTO DE REALIZAR EL PAGO Y AL MOMENTO QUE TE FIJAS RESULTA QUE NO INCLUYERON EL USO DEL AEROPURERTO Y ESTO DUPLICA EL PRECIO DEL VUELO A MAS DEL DOBLE. PESIMO...,0
 2023-12-04,4,NO VEO LA NECESIDAD DE COBRARME EN UN VUELO TAN CARO,2
@@ -4323,7 +4357,9 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-12-04,1,no me deja hacer el pago con mi tarjeta,0
 2023-12-04,8,LOS CARGOS DESDE EL INICIO PARA MEJOR VISIBILIDAD DEL COSTO,4
 2023-12-04,8,Que falla mucho su pagina web,4
-2023-12-04,0,"La pagina se traba muchoCobran cosas sin que uno las agregue La Aerolínea se deslinda totalmente de lo que pase con la página aunque la mayoría es el medio que usa para comprar sus vuelos",0
+2023-12-04,0,"La pagina se traba mucho
+Cobran cosas sin que uno las agregue 
+La Aerolínea se deslinda totalmente de lo que pase con la página aunque la mayoría es el medio que usa para comprar sus vuelos",0
 2023-11-04,7,"no es claro el cambio del ajuste tarifario, lo promocionan a un precio y al final le suben mas sin explicar el porque del ajuste. no hay nada desglosado.",4
 2023-11-04,4,"Acceder con tu usuario es muy dificil, practicamente no se puede",2
 2023-11-04,0,Odio pagar por separado. Es una trampa.,0
@@ -4335,7 +4371,8 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-11-04,8,"Mayor claridad en algunos puntos, especialmente cuando el pasajero desea hacer cambios",4
 2023-11-04,8,.,4
 2023-11-04,3,ME FORZARON A COMPRAR ASIENTO EN EL CAMBIO,2
-2023-11-04,0,"Siendo “más honestos” con los cambios de vuelo, según el boleto que compre, la única razón que tendría que pagar al hacer un cambio, era si la tarifa excedía el precio original.La tarifa era la misma, o más económica y de todas formas tuve que pagar $1400 aproximadamente.",0
+2023-11-04,0,"Siendo “más honestos” con los cambios de vuelo, según el boleto que compre, la única razón que tendría que pagar al hacer un cambio, era si la tarifa excedía el precio original.
+La tarifa era la misma, o más económica y de todas formas tuve que pagar $1400 aproximadamente.",0
 2023-11-04,0,"NADIE DE MOSTRADOR Y VIA TELEFÓNICA ME PUDO, MEJOR EL SISTEMA, QUE PENA QUE EL HUMANO SE OBSOLETO EN ESA EMPRESA",0
 2023-11-04,5,Hacer una guía para comprar boletos,2
 2023-11-04,5,"Uno, no es posible que compre un vuelo y salgan conque como es la tarifa económica no seguro que vuele porque depende de los ricos que compren con asiento si alcanzo lugar en el avión, es nefasto y lo protestaré ante mis empleados públicos",2
@@ -4344,14 +4381,17 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-11-04,5,No me dejo hacerlo del app,2
 2023-11-04,2,frozen al usuario a pagar por un asiento sin dar la opción de no escoger para evitar cargos extras,1
 2023-11-04,0,COSTOS EXESIVOS EN CAMBIOS.,0
-2023-11-04,8,"Servicio al cliente por llamada fue fatal,me tuvieron esperando 50 minutos y al tomar mi llamada iniciaron el proceso y ya no hablaron y después de mas de 10 minutos en espera,me dice una grabación que me han expulsado de la llamada.Muy mal.",4
+2023-11-04,8,"Servicio al cliente por llamada fue fatal,me tuvieron esperando 50 minutos y al tomar mi llamada iniciaron el proceso y ya no hablaron y después de mas de 10 minutos en espera,me dice una grabación que me han expulsado de la llamada.
+Muy mal.",4
 2023-11-04,8,bn,4
 2023-11-04,0,"no deja hacer check in en la aplicación ni en la página web, se tuvieron que comprar los asientos.",0
 2023-10-04,7,MAS ATENCION AL CLIENTE Y MEJORAR LA PAGIAN WEB,4
 2023-10-04,0,Haciendo sus cancelaciones más accesibles.,0
 2023-10-04,8,NO PUDE CAMBIA MI OCION DE EQUIPAJE PUES YA NO UTILIZARE EL EQUIPAJE DE 15 KG,4
 2023-10-04,7,ES MUY ALTO EL COSTO DE TODOS LOS SERVICIOS,4
-2023-10-04,0,"increible me tarde 3 dias en poder pagar una maleta porwue ninguna de mis tarjetas pasaba!!!!!! y en el banco estaba todo bieny asi me paso con unos boletos",0
+2023-10-04,0,"increible me tarde 3 dias en poder pagar una maleta porwue ninguna de mis tarjetas pasaba!!!!!! y en el banco estaba todo bien
+
+y asi me paso con unos boletos",0
 2023-10-04,8,Me parece que hacerlo por tabs es correcto pero quizas en una sola pagina de manera vertical fucionaria mejor,4
 2023-10-04,8,.,4
 2023-10-04,0,nesesita mas información sobre boletos comprados,0
@@ -4391,7 +4431,8 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-07-04,7,SELECCION DE MALETAS EN MEDIO DE LA COMPRA,4
 2023-07-04,2,"No me permite dejar la opción de asientos sin seleccionar, solo deja continuar si seleccionas un asiento",1
 2023-07-04,8,"Esta es la segunda vez que intento un cambio, en la primera solo me cobraron y no hicieron el cambio",4
-2023-07-04,1,"Revisar que la página no tenga ""problemas"".Terminé teniendo que hablar a servicio al cliente para que me ayudaran y me cobraron 1000 pesos por hacerlo.",0
+2023-07-04,1,"Revisar que la página no tenga ""problemas"".
+Terminé teniendo que hablar a servicio al cliente para que me ayudaran y me cobraron 1000 pesos por hacerlo.",0
 2023-07-04,2,Pago con Viva Aerobues y no tengo claros los benficios. Y para no tener problemas ya pago lo que sea como si fuera con cualquier tarjeta de crédito.,1
 2023-07-04,2,NO ME AGRADA QUE COBREN ANTES DE FINALIZAR EL SERVICIO,1
 2023-07-04,5,El link al email para pagar la TUA no funciono.,2
@@ -4443,7 +4484,9 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-04-04,0,Sus tretas para enganchar gente son despreciables,0
 2023-04-04,0,"NO PUDIERON APOYARME VIA TELEFONICA, SU SOLUCION FUE ENTRAR POR LA COMPU A UN CHAT EN VIVO PARA ASISTENCIA TECNICA Y NO ENCONTRE NINGUN APOYO. ME HICIERON CARGOS ADICIONALES QUE YO NO QUERIA AL MOMENTO DE PAGAR EL CAMBIO, COMO MALETA DOCUMENTADA Y ABORDAJE PRIORITATIO. SON COSAS QUE POR TENER YA LA TARJETA DE VIVA DEBERIA DE TENER COMO CORTESÍA.",0
 2023-04-04,7,"No me parece que separen el pago del boleto y del TUA, relamente nunca ponen el costo de los boletos completo",4
-2023-04-04,8,"Poder hacer cambios de ruta (no solo dia y hora sino también de lugar).Gracias!",4
+2023-04-04,8,"Poder hacer cambios de ruta (no solo dia y hora sino también de lugar).
+
+Gracias!",4
 2023-04-04,7,Haciéndolo a prueba de tontos,4
 2023-04-04,8,aclarar dudas mas especificas,4
 2023-04-04,5,Los cambios de vuelo aunque sean mínimos generan cargos exagerados. No es posible que el vuelo salga lo mismo que el cambio si ya se había pagado antes.,2
@@ -4462,7 +4505,8 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-03-04,4,"Poder hacer cambios de vuelos por pasajero, no por reservación",2
 2023-03-04,8,EN LA APLICACION FUE COMPLICADO REALIZAR EL PAGO,4
 2023-03-04,5,"Son una compania que cambia constantemente los vuelos e itinerarios y lo peor es que no devuelven el dinero, realmente esta espero sea mi ultima vez que viaje por esta compania viva aerobus",2
-2023-03-04,8,"MANTENER LAS TARIFAS DE LAS SILLAS, YA QUE LO FORZAN A UNO A COMPRAR PUES LE ASIGNAN EL MAS INCOMODO. GRACIAS",4
+2023-03-04,8,"MANTENER LAS TARIFAS DE LAS SILLAS, YA QUE LO FORZAN A UNO A COMPRAR PUES LE ASIGNAN EL MAS INCOMODO. 
+GRACIAS",4
 2023-03-04,7,APARECEN MUCHOS BANNERS,4
 2023-03-04,5,PORQUE TE COBRAN LOS ASIENTOS SI NOS LOS ELIGES,2
 2023-03-04,0,BAJAR LOS PRECIOS Y QUITAR EL TUA,0
@@ -4553,7 +4597,8 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-03-30,7,bajar precio por acientos,4
 2023-03-30,8,mas claro el proceso,4
 2023-03-30,8,"no es tan intuitivo, pero funciona bien",4
-2023-03-30,6,"Ofrecen un precio de 130 por una maleta y cuando entras te das cuenta que no son 130, sino 260.Me siento engañado",3
+2023-03-30,6,"Ofrecen un precio de 130 por una maleta y cuando entras te das cuenta que no son 130, sino 260.
+Me siento engañado",3
 2023-03-30,0,"Me están cobrando el TUA dos veces, en mi primer reservación y al realizar el cambio y no hay forma de evitarlo,Además su servicio de atención a clientes no responde después de mas de 2 horas en linea esperando ser atendido.",0
 2023-03-30,2,Poniendo los precios de verdad,1
 2023-03-30,7,no cobren los cambios :),4
@@ -4612,7 +4657,8 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-03-27,3,"No cambiando sin previo aviso y/o autorización los horarios de los vuelos. Eso afecta mucho. Justifican con que es menor a 4 horas pero hace los cambios varias veces de manera que de 3 o 3  no parezca pero en realidad sí los mueven por más de 4 horas. Mover un vuelo por más de 6 horas sí es una gran afectación y se pasan sus propias reglas (términos y condiciones) por el arco del triunfo. En realidad cuento con comprobantes y podría ir a PROFECO, dejo pasar esta ocasión sin embargo me sirve para tener un historial.",2
 2023-03-27,0,"Me llegó una promoción a mi correo para ahorrar en varios servicios entre ellos equipaje documentando. A los 30 minutos de que me llegó, entré a la página (dando click en el enlace) la promoción no me aparecía. Llamé al call center que viene en el correo pero como siempre son ineficientes al 100%, me dicen que ellos solo son centro de venta y sin enbargo en la página te dirigen, para cualquier problema, a ese teléfono. En fin, siempre es imposible solucionar nada con VivA Aerobus.",0
 2023-03-27,0,COBRAN MUCHO POR UN ERROR COMO CAMBIAR EL APELLIDO DEL PASAJERO.,0
-2023-03-27,8,"CUnicamente cambié de dia de vuelo, mi reservación original la hice con la protección de hasta tres cambios gratuitos, me dicen que solo hay cobro si existe diferencia en el precio del vuelo y en realidad no lo había. Sin embargo, me volvieron a cobrar la protección del paquete y eso me molesta mucho. En lugar de pagar solo la diferencia que seria de unos pesos acabé pagando $1,300.",4
+2023-03-27,8,"C
+Unicamente cambié de dia de vuelo, mi reservación original la hice con la protección de hasta tres cambios gratuitos, me dicen que solo hay cobro si existe diferencia en el precio del vuelo y en realidad no lo había. Sin embargo, me volvieron a cobrar la protección del paquete y eso me molesta mucho. En lugar de pagar solo la diferencia que seria de unos pesos acabé pagando $1,300.",4
 2023-03-27,2,Hacer pagos por servicios adicionales siempre me ha resultado una pesadill por los rechazos constantes a mis metodos de pago,1
 2023-03-27,8,al comprar paquete no lo pude hacer en su sitio,4
 2023-03-27,5,.,2
@@ -4637,8 +4683,17 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-03-26,5,no cobrar por todo,2
 2023-03-25,5,ME ESTAN COBRANDO ASIENTO Y N O PUEDO ELEGIRLO,2
 2023-03-25,7,"al hacer el aumento de mi equipaje, primero me salio una cantidad superior y tuve q volver a entrar a la pagina",4
-2023-03-25,0,"en todopésima atención en call center, Gabriela Alemán persona burlona, sarcástica y grosera que No resuelveVuelo sobrevendido",0
-2023-03-25,0,"Es engañosa la forma de dividir en 2 los pagos.Por favor, coloquen un solo monto y no lo hagan tan complejo.Cuando lleguen otras opciones, sus clientes recordaran que les tomaron el pelo.No es honesto, para una persona como yo, tal vez no les interese mucho, pero si me dicen un precio y después resulta que es más por que la TUA o etc... eso es deshonesto.Integren un solo precio, si quieren desglósenlo, pero por que estar haciendo más de un pago para lo mismo.",0
+2023-03-25,0,"en todo
+pésima atención en call center, Gabriela Alemán persona burlona, sarcástica y grosera que No resuelve
+Vuelo sobrevendido",0
+2023-03-25,0,"Es engañosa la forma de dividir en 2 los pagos.
+
+Por favor, coloquen un solo monto y no lo hagan tan complejo.
+
+Cuando lleguen otras opciones, sus clientes recordaran que les tomaron el pelo.
+No es honesto, para una persona como yo, tal vez no les interese mucho, pero si me dicen un precio y después resulta que es más por que la TUA o etc... eso es deshonesto.
+
+Integren un solo precio, si quieren desglósenlo, pero por que estar haciendo más de un pago para lo mismo.",0
 2023-03-25,1,No se seleccionaron los asientos como lo indique en la primera reservación.,0
 2023-03-25,8,Poder cambiar la cantidad y tipo de maletas si deseamos al retorno,4
 2023-03-25,5,Opción de cancelación en linea,2
@@ -4653,7 +4708,8 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-03-25,0,respondiendo y resolviendo,0
 2023-03-24,5,"Se suponía que tenía 1 cambio incluido, sin embargo al hacer mi cambio no me lo hicieron efectivo y me cobraron el vuelo prácticamente como nuevo.",2
 2023-03-24,3,"Que dejen de poner tantas trabas con los cupones que dan pues tengo uno y no lo pude disfrutar con mi familia gracias a sus políticas, ustedes cambiaron mi vuelo a su conveniencia y no hubo ninguna opción, yo tuve que cambiar mis planes por su cambio de vuelo",2
-2023-03-24,0,"Siempre tengo problemas con los pagos, tengo que hacer muchos intentos para que me los acepté,se bugea la página seguido; agregué una maleta de mano extra, pero como no pasó el pago, la quité para aguilizar el check in, después de quitarla me siguió apareciendo el costo de esa maleta, y no pude hacer el check in, al agregarla de nuevo la maleta al día siguiente me apareció dos veces el pago",0
+2023-03-24,0,"Siempre tengo problemas con los pagos, tengo que hacer muchos intentos para que me los acepté,
+se bugea la página seguido; agregué una maleta de mano extra, pero como no pasó el pago, la quité para aguilizar el check in, después de quitarla me siguió apareciendo el costo de esa maleta, y no pude hacer el check in, al agregarla de nuevo la maleta al día siguiente me apareció dos veces el pago",0
 2023-03-24,7,SOBRA INFORMACIÓN,4
 2023-03-24,2,demasiados pasos y cobros sin sentido,1
 2023-03-24,0,"ENGAÑAN CON EL PRECIO QUE SE ESCOGE, ME PUSIERON UN PRECIO DE 1370 Y AL FINAL ME COBRARON CASI 1500 PESOS SIN JUSTIFICACIÒN NI EXPLICACIÒN DEL AUMENTO DE TARIFA",0
@@ -4672,7 +4728,9 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-03-24,0,"Cobran los asientos al realizar el cambio de vuelo, cuando esos ya estaban pagados con anterioridad, agregan demasiado a los impuestos y a parte el TUA. Pésimo servicio.",0
 2023-03-24,6,Dicen que hay tres cambios gratuitos y al final hacer pagar igualmente; eso es un engaño.,3
 2023-03-24,8,"mi nombre es fernando , lo unico que no me gusto de este proseso es que la pagina te obliga a comprar tu boleto de lo demas  esta muy facil",4
-2023-03-24,6,"No me gusta que cobren por asientoY aún cuando no lo elijo yo, me cobranEs una estupidez",3
+2023-03-24,6,"No me gusta que cobren por asiento
+Y aún cuando no lo elijo yo, me cobran
+Es una estupidez",3
 2023-03-23,0,estoy cambiando mi vuelo y no me descuenta lo que ya había pagado anteriormente. o no lo explica bien lo que estoy pagando en el total.,0
 2023-03-23,8,"No me dejó agregar equipaje adicional y desconozco la razón. Y no funciona la app del celular, tuve que hacerlo en computadora.",4
 2023-03-23,0,"Ustedes promueven, que comprando modalidad SMART no hay cargos en el cambio de vuelo si las tarifas no son distintas, en este cambio no había cambio a mi favor y me cobraron. No lo recomendaría",0
@@ -4684,7 +4742,9 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-03-23,8,NO COMENTARIOS,4
 2023-03-23,1,poder cambiar los vuelos sin tener que pagar dos veces los asientos o sin tener que escoger asiento,0
 2023-03-23,8,"no mover los vuelos ya seleccionados, causa mucho problema de planeacion ya realizada.",4
-2023-03-23,1,"Esta terrible, tardé 2 días y 4 intentos, De cajon quieren volver a usar el TUA ycuando llamas al call center querían cobrar 2500 pesos por el cambio.",0
+2023-03-23,1,"Esta terrible, tardé 2 días y 4 intentos, 
+
+De cajon quieren volver a usar el TUA ycuando llamas al call center querían cobrar 2500 pesos por el cambio.",0
 2023-03-23,3,"Tuve muchos problemas para hacer el cambio de vuelo. Llamé y me tuvieron MÁS DE 1 HORA esperando a que alguien me contestara, cosa que nunca pasó. Tuve que reiniciar todo mi sistema para que me dejara hacer el cambio tanto de vuelo como de equipaje.",2
 2023-03-23,5,Muy caro todo,2
 2023-03-23,1,Vayanse a la verga no me dejaron quitar el asiento,0
@@ -4697,14 +4757,22 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-03-23,2,reembolsar los ajustes de precio,1
 2023-03-23,5,"ES MUY LENTA LA PLATFORMA, TE ENRREDAN OFRECIENDOTE TANTOS SERVICIOS",2
 2023-03-23,3,"Revisar la forma de cambio porque me arrojaba error siempre, tuve qu ehacer el cambio y me arrojo error y me meti al carrito y fue la unica forma para poder realizarlo pero no hay alguna pisto o algo para saber que hacer",2
-2023-03-23,8,"no podia hacerlo tarde mucho varios dias intentandolo  y llame y no pude hacer el cambio estaba desesperada ya lo inba dejar perder mi vuelo estaba triste",4
+2023-03-23,8,"no podia hacerlo tarde mucho varios dias intentandolo 
+ y llame y no pude hacer el cambio 
+
+estaba desesperada ya lo inba dejar perder mi vuelo estaba triste",4
 2023-03-23,5,"El total no siempre suma bien, hay que refrescar la pagina varias veces para que salga la suma correcta, varias veces agrega el seguro de viaje automaticamente, lo cual es extremadamente molesto y da la sensacion de que me estan robando",2
 2023-03-23,3,demasiado lento y con errores,2
 2023-03-23,1,"En linea no logre hacer el cambio, tuve que hablar al contacto telefonico y tarde mas de un ahora en espera de que me contestara un agente, tuve que hablar desde otro telefono a la opcion de compra de vuelos, no cambios y alguien me atendio mas rapido.",0
 2023-03-23,0,"LLAMADAS NUNCA CONTESTAN Y TAMPOCO DAN OPCION DE CANCELACION, GUARDE EL ASIENTO Y AL HACER CHECK IN AHORA RESULTA QUE NO TENGO ASIENTO DE UNA RESERVA, PESE A QUE YA ME COBRARON",0
-2023-03-22,0,"atencion a clientes es una porqueriani call centerni whatsapp DENUNCIO A SAUL Y NELLIE DE SERVICIO DE WHATSAPPDENUNCIO A JUAN SALAZAR DE CALL CENTER",0
+2023-03-22,0,"atencion a clientes es una porqueria
+ni call center
+ni whatsapp 
+DENUNCIO A SAUL Y NELLIE DE SERVICIO DE WHATSAPP
+DENUNCIO A JUAN SALAZAR DE CALL CENTER",0
 2023-03-22,6,"El precio del equipaje van incrementando con los días, y deberían siempre tener meses sin intereses.",3
-2023-03-22,8,"ME RESULTO COMPLICADO LO DEL TUA, EL QUE LO COBRARAN APARTE. YO PENSE QUE EL IMPORTE PAGADO INICIALMENTE ERA EL FINAL Y TERMINE PAGANDO MAS QUE EN OTRA AEROLINEA.",4
+2023-03-22,8,"ME RESULTO COMPLICADO LO DEL TUA, EL QUE LO COBRARAN APARTE. 
+YO PENSE QUE EL IMPORTE PAGADO INICIALMENTE ERA EL FINAL Y TERMINE PAGANDO MAS QUE EN OTRA AEROLINEA.",4
 2023-03-22,7,"Compre mediante la tarjeta HSBC Viva Plus y al querer hacer un cambio de vuelo me hace el cargo por los adicionales que se ofrecen sin costo, y no hay forma de removerlos.",4
 2023-03-22,0,"porque cobran de nuevo algo de tua??  es un robo, pésimo servicio",0
 2023-03-22,0,EXTREMADAMENTE MOLESTOque cobren por estar juntos en una reserva de mas de una persona... sientenos donde quieran pero juntos..... o cobren 20 pesos por asiento y vn a ver como todos pagan sus asientos y no tienen problemas EN CADA VUELO EN MOSTRADOR de gente peleando por esas razones... NO ES UN MERCADO hasta el cine te da lugar asignado no manchen...,0
@@ -4766,14 +4834,16 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-03-19,5,MIENTEN,2
 2023-03-19,1,"No hay modo de que mejoren, simplemente son la peor aerolínea en la que he viajado.",0
 2023-03-19,6,"se requiere notificar el hecho de que si no se compra un asiento, nada te assegura que puedas viajar.",3
-2023-03-19,1,"Checar el sistema.Compre mi vuelo para el 19 de marzo y a la hora de hacer check in la fecha estaba para el 3 de abril. Me salió carísimo el boleto con el cambio de fecha",0
+2023-03-19,1,"Checar el sistema.
+Compre mi vuelo para el 19 de marzo y a la hora de hacer check in la fecha estaba para el 3 de abril. Me salió carísimo el boleto con el cambio de fecha",0
 2023-03-19,2,ASISTENCIA TELEFONICA,1
 2023-03-19,4,"No se pudo realizar la compra con mi tarjeta de credito por temas de su plataforma, marque al banco y no hay ningun problema con mu tarjeta",2
 2023-03-18,0,EVITAR COBRAR POR CORRECIONES DE NOMBRE,0
 2023-03-18,8,No pude pagar con mi tarjeta de creidto ya son varias veces.,4
 2023-03-18,0,"esta pesimo la aplicacion, marca muchos errores y luego hablas para pedir ayuda y son muy groseros. no lo recomiendo para nada, pesismo servicio",0
 2023-03-18,8,Hice pago de TUA y incremento de maleta y no me aparece la maleta,4
-2023-03-18,3,"decia que podia hacer cambios, pero enverdad el cambio de tarifa es muy costoso, adicionalmente marcando desde celular y telefono fijo a la linea8005189402 desde Bogota, con y sin el 601 dice que esta errado. el cambio de pasaje al final me salio muy costo",2
+2023-03-18,3,"decia que podia hacer cambios, pero enverdad el cambio de tarifa es muy costoso, adicionalmente marcando desde celular y telefono fijo a la linea8005189402 desde Bogota, con y sin el 601 dice que esta errado. 
+el cambio de pasaje al final me salio muy costo",2
 2023-03-18,8,no se puede mandar por wasapp,4
 2023-03-18,7,ES UN POCO CONFUSO,4
 2023-03-18,8,mejirando instrucciones,4
@@ -4782,7 +4852,8 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-03-18,8,Sería bueno que se especificaran las medidas de las maletas,4
 2023-03-18,8,xyz,4
 2023-03-17,5,ES DIFICIL SELECCIONAR LOS ASIENTOS (INCREIBLE QUE COBREN POR ESO),2
-2023-03-17,8,"VIA TELEFONICA ES UNA MUY MALA ATENCION POR PARTE DE SU PERSONALME QUERIAN HACER UN CARGO DE 3000 POR REALIZAR EL CAMBIO EN SU CALL CENTER",4
+2023-03-17,8,"VIA TELEFONICA ES UNA MUY MALA ATENCION POR PARTE DE SU PERSONAL
+ME QUERIAN HACER UN CARGO DE 3000 POR REALIZAR EL CAMBIO EN SU CALL CENTER",4
 2023-03-17,0,Me cobraron más de lo que debería,0
 2023-03-17,5,"LOS COSTOS SE ELEVAN DEMASIADO AL CAMBIO DE ITINERARIOS, SUGIERO EN LOS HORARIOS PONER 19 HRS EN VEZ DE 7 PM HABEMOS GENTE QUE NOS CONFUNDIMOS Y NO LO LEIMOS BIEN, MEJOR PONER EL HORARIO COMPLETO",2
 2023-03-17,8,PORQUE AHORA TARDO UN POCO,4
@@ -4808,7 +4879,8 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-03-16,8,llene todo el formulario y al final me dijo que ya esa tarifa no aplicaba,4
 2023-03-16,5,"realmente tuve que agregar cargos extra para poder cambiar mi vuelo, y no deberia",2
 2023-03-16,7,"Hay cargos que no tiene explicación en especial en este caso que por cambio de nombre me dices que me cobrab 906.00 y al momento del pago son 1,050.00 por otro cargo que no se ha que se deben ni son explicados.",4
-2023-03-16,8,"La aplicación móvil falla a la hora de pagar. en la página funciona bien.Gracias.",4
+2023-03-16,8,"La aplicación móvil falla a la hora de pagar. en la página funciona bien.
+Gracias.",4
 2023-03-16,5,No sirve su telefono y no permite hacer cambios parciales su WEB,2
 2023-03-16,5,cofusa la paguina,2
 2023-03-16,8,no me da la opcion de añadir a mi mascota de apoyo emocional,4
@@ -4869,7 +4941,8 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-03-13,5,EVITANDO RETRASOS Y CANCELACIONES,2
 2023-03-13,1,En cambios de vuelo aunque ya tenia el asiento pagado me lo volvieorn a cobrar,0
 2023-03-13,7,Me saco el sistema al momento previo de pagar y tuve que volver a entrar y pagar más,4
-2023-03-13,0,"no pude cambiar el vuelo, la pagina se traba mucho, tarde 3 hora en poder comprar maletas.en las lineas telefonicas no contestan",0
+2023-03-13,0,"no pude cambiar el vuelo, la pagina se traba mucho, tarde 3 hora en poder comprar maletas.
+en las lineas telefonicas no contestan",0
 2023-03-13,4,No entiendo como ganar puntos doters esta confuso,2
 2023-03-13,8,GRacias,4
 2023-03-13,6,"Hay algunas cosas que no me quedan claras aun, como el equipaje permitido y la asignacion de asientos",3
@@ -4899,7 +4972,8 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-11-03,5,"La pagina no es ""User friendly""",2
 2023-11-03,0,"El precio no es transparente, el vuelo original fue de la mitad de precio de la nueva reserva y aun así se me cobró un cambio te tarifa",0
 2023-11-03,5,ES MUY CONFUSA LA PÁGINA,2
-2023-11-03,0,"Su servicio telefonico es pesimo, muiy mala antencio por parte del personal.pagina poco amigable con el usuario",0
+2023-11-03,0,"Su servicio telefonico es pesimo, muiy mala antencio por parte del personal.
+pagina poco amigable con el usuario",0
 2023-11-03,7,El tiempo de bloqueo en la página,4
 2023-11-03,3,Siendo mas claros en su forma de pago,2
 2023-11-03,0,"se me hace una violacion el no poder dejar agreagar equipaje a las reservaciones a cuba violando  la politica de de equipaje de ustedes  y exponiendo que es problema de aduana en cuba cuando no es asi , ya que puedes entrar 120 kg al ano ademas en estos momentos de forma temporal puedes llevar ilimitado aseo y aliemnto  y lo mas trsite es que estan negociando en la terminal ya que las famosas agencias en cancum y ciudad mexico venden boletos con equijae de 120 kg y cobran en la termnial a sus usuarios 5000 pesos por una maleta extra de 25kg y 2000 pesos por kg que se pasen  , y no es comentario es vivencia que vi con mis ojos en ciudad mexico el dia 16 de febrero",0
@@ -4919,7 +4993,11 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-10-03,0,NO ROBANDO,0
 2023-10-03,5,"DEMASIADOS COSTOS EXTRA, NO DEMOREN EL VUELO",2
 2023-10-03,8,d,4
-2023-10-03,6,"La app está perfecta. Pero no su abuso. En mi vuelo anterior ya me habían cobrado asientos y en esta ocasión nuevamente. Además nos dan una tarifa y enseguida comienzas ha generar cargos que deberían incluirlos. Y la tarifa se encarece demasiado a como la anuncian.",3
+2023-10-03,6,"La app está perfecta. 
+Pero no su abuso. 
+En mi vuelo anterior ya me habían cobrado asientos y en esta ocasión nuevamente. 
+Además nos dan una tarifa y enseguida comienzas ha generar cargos que deberían incluirlos. 
+Y la tarifa se encarece demasiado a como la anuncian.",3
 2023-09-03,8,LA APP,4
 2023-09-03,5,"Sería muy útil una línea de apoyo al servicio digital, ya que la página algunas veces muestra errores, en mi caso las tarifas no se ajustaron correctamente al cambio de vuelo. La mayoría de l agente que realiza sus movimientos digitalmente lo hace porque se supone es más sencillo y rápido, pero lo peor viene cuando quier3s comunicarte a la línea de atención al cliente 8182150150 y ellos comentan que no son el ar3a encargada de esos temas y  usando pregu te. Ual ese, área que si es 3ncargada de eso, respondieron que no existía.. y que si ellosmeayudaban habría un cargo por 900 y picó de pesos más lo q me costará la diferencia del cambio de vuelo...o sea entonces para que sirve la atención al cliente si quedas peor cuando te dicen qsu ayuda tiene precio.",2
 2023-09-03,5,los precios para cambiar el vuelo son muy elevados,2
@@ -4931,7 +5009,9 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-09-03,6,Funciona muy bien excepto un par de casos que no me ha dejado hacer el check in en linea. Acaba de pasar con mi novia hoy para un vuelo de JFK a CDMX,3
 2023-09-03,8,"Claridad en la información. En la pagina principal me aparecía un total de pago de TUA y al ir a pagarlo, la cantidad aumentó",4
 2023-09-03,8,INCLUIR CASILLA DE SELECCION DE FACTURACION,4
-2023-09-03,7,"El boleto debe incluir seleccion de asientos sin costoNo me permitía cambiar mi vuelo porque no había pagado tua, tuve que marcar call center para que lo debloquearanSon muchas opciones que confunden, yo reduciría el numero de preguntas un 70%",4
+2023-09-03,7,"El boleto debe incluir seleccion de asientos sin costo
+No me permitía cambiar mi vuelo porque no había pagado tua, tuve que marcar call center para que lo debloquearan
+Son muchas opciones que confunden, yo reduciría el numero de preguntas un 70%",4
 2023-09-03,5,ES MEJOR  CON OPERADORA,2
 2023-09-03,6,"ES LENTO Y SE SALTA PASOS, LO CUAL TE OBLIGA A HACER MODIFICACIONES AL FINAL",3
 2023-09-03,8,mas rapido,4
@@ -5058,7 +5138,8 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-03-03,0,Es demasiado tedioso,0
 2023-03-03,8,que sea mas especifico en cuanto a las cosas que se compro y que inlcuyen en el cambio,4
 2023-03-03,0,En la selección de asientos estoy segura que elegí y tuve que volver a pagar porque no lo cargo y no me presentan un desglose de lo que se me esta cobrando DETALLADO,0
-2023-02-03,8,"esta padre pero a veces es muy caro hacer el cambio y hay que esperar a que baje de precio el vuelo.Si es el mismo horario deberia de tener el mismo precio 3 dias despues",4
+2023-02-03,8,"esta padre pero a veces es muy caro hacer el cambio y hay que esperar a que baje de precio el vuelo.
+Si es el mismo horario deberia de tener el mismo precio 3 dias despues",4
 2023-02-03,5,NO DEBERIAN COBRARME NADA POR QUE LO HICE CON ANTICIPACION Y SE SUPONE QUE LA COMPRA QUE HABIA HECHO COMTEMPLABA HASTA 3 CAMBIOS GRATIS. ENTONCES USTEDES NO CUMPLIERON CON ESA PARTEY ME ESTAN COBRANDO ALGO QUEYA ESTABA PREVISTO Y PAGADO,2
 2023-02-03,5,"SIENDO LOS FORMATOS MAS AMIGABLES, EN ADICIÓN ES muy CARO",2
 2023-02-03,8,"ES MUY COMPLICADO QUE  TE ATIENDAN, TODO LO  TIENE QUE HACER UNO EN LINEA, A VECES SE NECESITA HABLAR CON ALGUIEN.",4
@@ -5106,5 +5187,7 @@ Date,nps,_C_mo_podemos_mejorar_,nps_scaled
 2023-02-28,8,NADIE ES PERFECTO,4
 2023-02-28,1,Ya tenia un asiento asignado y tramposamente lo cambian para que tenga uno que pagar,0
 2023-02-28,0,"No puede ser posible que un cambio de vuelos cueste carísimo y por llamada más, en verdad no puede ser, no recomiendo nada esta aerolínea",0
-2023-02-28,0,"no estoy contenta hacen los cambio si avisar, y despues cobranla peor aerolina que he viajadoesto me respeten mis horarios",0
+2023-02-28,0,"no estoy contenta hacen los cambio si avisar, y despues cobran
+la peor aerolina que he viajado
+esto me respeten mis horarios",0
 2023-02-28,6,No option to see the site in English,3
